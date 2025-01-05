@@ -19,6 +19,6 @@
     </ul>
     <p>データは暗号化され、安全に保存されます。第三者に共有することはありません。</p>
     <p>詳細については、以下の連絡先にお問い合わせください：</p>
-    <p>Email: chabliskk@gmail.com</p>
+    <p>mail: chabliskk@gmail.com</p>
 </body>
 </html>
